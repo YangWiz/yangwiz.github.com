@@ -37,7 +37,7 @@ profiles:
     url: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/polymagicyoung&ved=2ahUKEwistJTaj_2IAxUA2AIHHYpYOlgQFnoECB8QAQ&usg=AOvVaw1Ako-AD--qAfqQCeaqT9KV
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/InternDevSummer.pdf
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
