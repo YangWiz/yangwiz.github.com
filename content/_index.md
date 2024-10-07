@@ -11,7 +11,8 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: justify; font-size: 0.6em;'
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: collection
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
