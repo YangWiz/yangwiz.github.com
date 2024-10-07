@@ -1,6 +1,6 @@
 ---
-title: 'YangWiz'
-date: 2024-10-24
+title: 'Home'
+date: 2023-10-24
 type: landing
 sections:
   - block: resume-biography
@@ -11,7 +11,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: justify; font-size: 0.7em;'
+        style: 'text-align: justify; font-size: 0.6em;'
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
