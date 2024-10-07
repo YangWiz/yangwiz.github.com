@@ -52,14 +52,25 @@ website: ""
 
 Hi there! I'm a second-year Computer Science Master's student at [VU Amsterdam](https://vu.nl/nl) and [University of Amsterdam](https://www.uva.nl/en). My track focuses on computer systems and infrastructure. I'm currently supervised by [Prof. Andres Goens](https://goens.org/) on topics related to [AQL](https://goens.org/publications/zhang-pact-24/PACT24.pdf) and the [Compound Memory Model](https://goens.org/publications/goens-pldi-23/). I will be starting as an SDE at Volvo Cars in Gothenburg in February 2025, where I will work on the fast charging system. 
 
-Previously, I worked at CARIAD as a cybersecurity engineer internship student under the supervision of [Dr. Ilya Orerov](https://www.crypto.ruhr-uni-bochum.de/staff/ozerov.html.en), where I developed a TLS-PSK MITM attack script. You can find my script on my [GitHub](https://github.com/YangWiz). 
+Previously, I worked at [CARIAD](https://cariad.technology/) as a cybersecurity engineer internship student under the supervision of [Dr. Ilya Orerov](https://www.crypto.ruhr-uni-bochum.de/staff/ozerov.html.en), where I developed a TLS-PSK MITM attack script. You can find my script on my [GitHub](https://github.com/YangWiz). 
 
 I received my B.Eng. in Software Engineering from [Qingdao University of Science and Technology](https://en.qust.edu.cn/), where I made some of the best friends of my life.
 
 I'm generally interested in storage systems, heterogeneous multicore systems, formal verification, and HW/SW co-design.
 
-## TAing
+### TAing
 - [Security of Systems and Networks](https://www.os3.nl/start) .Fall 2024
 
-## Research Projects
+### Research Projects
 - [Implementation of the AQL Compiler's CIRCT Backend](https://github.com/YangWiz/aql-circt)
+
+### Advanced University Projects
+
+Sadly most of these contain no links to source code or report as to prevent plagarism for future students, but you can find parts of them on my [GitHub](https://github.com/YangWiz).
+
+- MOESI Cache simulator (discrete-event with accurate timings)
+- NVMe userspace FTL (GC) and log-structured NVMe file system for RocksDB
+- An SMT solver using DPLL(T) and a VCGen based on Hoare logic with the weakest precondition approach.
+- A simple to-do list application with persistent storage (psql) deployed on GCP using K8s, secured with TLS via cert-manager and RBAC. 
+- RISC-V Implementations of KATAN32 and RECTANGLE Ciphers, and a Verilog Implementation of the PRESENT Cipher with Masked S-Box.
+- EdgeCoolingMode thermal management algorithm based on HotSniper framework.
