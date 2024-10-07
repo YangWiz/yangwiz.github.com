@@ -50,7 +50,7 @@ highlight_name: true
 website: ""
 ---
 
-Hi there! I'm a second-year Computer Science Master's student at [VU Amsterdam](https://vu.nl/nl) and [University of Amsterdam](https://www.uva.nl/en). My track focuses on computer systems and infrastructure. I'm currently supervised by [Prof. Andres Goens](https://goens.org/) on topics related to [AQL](https://goens.org/publications/zhang-pact-24/PACT24.pdf) and the [Compound Memory Model](https://goens.org/publications/goens-pldi-23/). I will be starting as an SDE at Volvo Cars in Gothenburg in February 2025, where I will work on the fast charging system. 
+Hi there! I'm a second-year Computer Science Master's student at [VU Amsterdam](https://vu.nl/nl) and [University of Amsterdam](https://www.uva.nl/en). My track focuses on computer systems and infrastructure. I'm currently supervised by [Prof. Andres Goens](https://goens.org/) on topics related to [AQL](https://goens.org/publications/zhang-pact-24/PACT24.pdf) and the [Compound Memory Model](https://goens.org/publications/goens-pldi-23/). I will be starting as an SDE at [Volvo Cars](https://www.volvocars.com/en/) in Gothenburg in February 2025, where I will work on the fast charging system. 
 
 Previously, I worked at [CARIAD](https://cariad.technology/) as a cybersecurity engineer internship student under the supervision of [Dr. Ilya Orerov](https://www.crypto.ruhr-uni-bochum.de/staff/ozerov.html.en), where I developed a TLS-PSK MITM attack script. You can find my script on my [GitHub](https://github.com/YangWiz). 
 
@@ -58,13 +58,13 @@ I received my B.Eng. in Software Engineering from [Qingdao University of Science
 
 I'm generally interested in storage systems, heterogeneous multicore systems, formal verification, and HW/SW co-design.
 
-### TAing
+#### TAing
 - [Security of Systems and Networks](https://www.os3.nl/start) .Fall 2024
 
-### Research Projects
+#### Research Projects
 - [Implementation of the AQL Compiler's CIRCT Backend](https://github.com/YangWiz/aql-circt)
 
-### Advanced University Projects
+#### Advanced University Projects
 
 Sadly most of these contain no links to source code or report as to prevent plagarism for future students, but you can find parts of them on my [GitHub](https://github.com/YangWiz).
 
