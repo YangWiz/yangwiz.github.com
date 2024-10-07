@@ -47,9 +47,9 @@ highlight_name: true
 website: ""
 ---
 
-Hi there! I'm a second-year Computer Science Master's student at [VU Amsterdam](https://vu.nl/nl) and [University of Amsterdam](https://www.uva.nl/en). My track focuses on computer systems and infrastructure. I'm currently supervised by [Prof. Andres Goens](https://goens.org/) on topics related to [AQL](https://goens.org/publications/zhang-pact-24/PACT24.pdf) and the [Compound Memory Model](https://goens.org/publications/goens-pldi-23/). I will be starting as an SDE at [Volvo Cars](https://www.volvocars.com/en/) in Gothenburg in February 2025, where I will work on the fast charging system. 
+Hi there! I'm a second-year Computer Science Master's student at [VU Amsterdam](https://vu.nl/nl) and [University of Amsterdam](https://www.uva.nl/en). My track focuses on computer systems and infrastructure. I'm currently supervised by [Prof. Andres Goens](https://goens.org/) on topics related to [AQL](https://goens.org/publications/zhang-pact-24/PACT24.pdf) and the [Compound Memory Model](https://goens.org/publications/goens-pldi-23/). I will be starting as an SDE intern at [Volvo Cars](https://www.volvocars.com/en/) in Gothenburg in February 2025, where I will work on the fast charging system. 
 
-Previously, I worked at [CARIAD](https://cariad.technology/) as a cybersecurity engineer internship student under the supervision of [Dr. Ilya Orerov](https://www.crypto.ruhr-uni-bochum.de/staff/ozerov.html.en), where I developed a TLS-PSK MITM attack script. You can find my script on my [GitHub](https://github.com/YangWiz). 
+Previously, I worked at [CARIAD](https://cariad.technology/) as a cybersecurity engineer internship student under the supervision of [Dr. Ilya Orerov](https://www.crypto.ruhr-uni-bochum.de/staff/ozerov.html.en), where I developed a TLS-PSK MITM attack script. You can find my script on my [GitHub](https://github.com/YangWiz). I also worked as a Rust backend software engineering intern at the AI startup [BaihaiAI](https://github.com/BaihaiAI/IDP). 
 
 I received my B.Eng. in Software Engineering from [Qingdao University of Science and Technology](https://en.qust.edu.cn/), where I made some of the best friends of my life.
 
