@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Master's Student
+role: A tech nerd who is an INFP
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://vu.nl/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: INFP
+bio: A tech nerd who is an INFP
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
