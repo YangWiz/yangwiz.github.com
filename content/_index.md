@@ -19,5 +19,5 @@ sections:
           - blog
     design:
       spacing:
-        padding: ['3rem', '2rem', '2rem', '2rem']
+        padding: ['3rem', '2rem', 0, '2rem']
 ---
