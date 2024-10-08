@@ -6,5 +6,5 @@ main:
     url: /
     weight: 20
   - name: Blogs
-    url: tags/
+    url: blog/
     weight: 20
