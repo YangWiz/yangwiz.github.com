@@ -9,7 +9,7 @@ sections:
       username: admin
     design:
       spacing:
-        padding: [0, '2rem', 0, '2rem']
+        padding: [0, '1.5rem', 0, '1.5rem']
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
@@ -19,5 +19,5 @@ sections:
           - blog
     design:
       spacing:
-        padding: ['3rem', '2rem', 0, '2rem']
+        padding: ['3rem', '1.5rem', 0, '1.5rem']
 ---
