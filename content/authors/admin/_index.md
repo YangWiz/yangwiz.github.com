@@ -25,7 +25,7 @@ organizations:
     url: https://vu.nl/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: A tech nerd who is an INFP
+bio: CS Master's Student
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
