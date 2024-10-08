@@ -31,7 +31,7 @@ header:
   navbar:
     enable: true
     show_theme_chooser: true
-    align: "center"
+    align: "left"
 
 # Site footer
 footer:
