@@ -4,7 +4,7 @@
 main:
   - name: Home
     url: /
-    weight: 20
-  - name: Blogs
+    weight: 10
+  - name: Blog
     url: blog/
     weight: 20
