@@ -60,6 +60,7 @@ I'm generally interested in storage systems, heterogeneous multicore systems, fo
 
 #### Research Projects
 - [Implementation of the AQL Compiler's CIRCT Backend](https://github.com/YangWiz/aql-circt)
+- Secure the Memory System with Affine Type for Nano Language (TBD)
 
 #### Advanced University Projects
 
