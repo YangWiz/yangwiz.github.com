@@ -51,14 +51,16 @@ Hi there! I'm a second-year Computer Science Master's student at [VU Amsterdam](
 
 Previously, I worked at [CARIAD](https://cariad.technology/) as a cybersecurity engineer internship student under the supervision of [Dr. Ilya Ozerov](https://www.crypto.ruhr-uni-bochum.de/staff/ozerov.html.en), where I developed a TLS-PSK MITM attack script. You can find my script on my [GitHub](https://github.com/YangWiz). I also worked as a Rust backend software engineering intern at the AI startup [BaihaiAI](https://github.com/BaihaiAI/IDP). 
 
-I received my B.Eng. in Software Engineering from [Qingdao University of Science and Technology](https://en.qust.edu.cn/), where I made some of the best friends of my life. During my undergraduate studies, I attended a [Berkeley](https://www.berkeley.edu/) [summer session](https://summer.berkeley.edu/) for the [CS161](https://su21.cs161.org/) (Computer Security) course remotely and earned an A. 
+I received my B.Eng. in Software Engineering from [Qingdao University of Science and Technology](https://en.qust.edu.cn/), where I made some of the best friends of my life. During my undergraduate studies, I attended a [Berkeley](https://www.berkeley.edu/) [summer session](https://summer.berkeley.edu/) for the [CS161](https://su21.cs161.org/) (Computer Security) course. 
 
 I'm generally interested in storage systems, heterogeneous multicore systems, formal verification, and HW/SW co-design.
+
+I like lure fishing, cycling, japanese anime, badminton and video games (Helldivers2, bf2024, etc)! 
 
 #### TAing
 - [Security of Systems and Networks](https://www.os3.nl/start) .Fall 2024
 
-#### Research Projects
+#### Research Projects*
 - Implementation of the AQL Compiler's CIRCT Backend [[code](https://github.com/YangWiz/aql-circt)] [[report](https://drive.google.com/file/d/1ISfj9GLfG4aHgvLpCKjxev_HFPw9VjJI/view?usp=drive_link)]
 - Secure the Memory System with Affine Type for Nano Language (TBD)
 
